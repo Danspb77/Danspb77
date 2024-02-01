@@ -12,6 +12,10 @@ I'm ITMO student and beginner QA engineer
 
 ### Work experience
 
+#### TasteMaker, Moscow — Full stack QA
+*December 2023 — Present*
+Created and tested MVP of the system. Organized the testing process: selected testing tools, developed a test plan, distributed tasks and created test cases. I created functional, API, and E2E auto tests. I write bug reports for developers and designers.
+
 ### Skills
 
 ### Education
