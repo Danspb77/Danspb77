@@ -61,7 +61,7 @@ I'm ITMO student and beginner QA engineer
 * Created reports on defects in requirements and devices. 
 * Interacted with the developers of design solutions.
 
-### Skills
+## Skills
 
 * **Testing theory** (requirements analysis, test design techniques)
 
@@ -83,7 +83,7 @@ I'm ITMO student and beginner QA engineer
 * **Postman** (sending all requests from the collection, working with variables, autotests)
  **Jira** (bug reporting facility)
 
-### Education
+## Education
 
 
 #### ITMO, St. Petersburg — Bachelor's degree
@@ -108,7 +108,7 @@ I study at the Faculty of Information Technology Security.
 * Wrote End To End tests using the PageObject model for an online store
 * Worked with scope, explicit and implicit expectations.
 
-### Languages
+## Languages
 
 * English (level B2)
 
