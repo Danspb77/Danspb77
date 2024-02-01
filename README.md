@@ -47,12 +47,28 @@ I'm ITMO student and beginner QA engineer
 
 *June 2023 — September 2023*
 
-* Tested technical requirements and design solutions
+* Tested technical requirements  and design solutions for school on 1100 students
 * Tests of electrical devices.
 * Created reports on defects in requirements and devices. 
 * Interacted with the developers of design solutions.
 
 ### Skills
+
+ * **SQL** (JOIN 2-3 tables with grouping, aggregating, having functions)
+
+* **Testing theory** (requirements analysis, test design techniques)
+  
+* **Python** (telegram bots, scripts for creating, filling, searching in the database)
+  
+* **Selenium/Pytest** (end to end marketplace tests)
+* **Checklists, test cases, decision tables** (examples)
+* **Bash** (pipeline, find, ping)
+* **Web** (know the structure of the request and response, easily identify the status codes)
+* **HTML/CSS + TypeScript** (creating a registration and authorization form)
+* **DevTools** (analyzing headers, body of requests and responses, filtering by type)
+*  **Git/Github** (merge, branch)
+* **Postman** (sending all requests from the collection, working with variables, autotests)
+ **Jira** (bug reporting facility)
 
 ### Education
 
