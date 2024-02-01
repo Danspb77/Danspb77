@@ -10,25 +10,31 @@ I'm ITMO student and beginner QA engineer
 
 ![Shurygin Danil Sergeevich](./assets/image.png)
 
-### Links
+### Contacts
+
+* Telegram:[ @danyaspb77](https://t.me/danyaSPB77)
+
+* Email: dan.shell@bk.ru
 
 ## Work experience
 
-### TasteMaker, Moscow — Full stack QA
+### [TasteMaker](https://github.com/Danspb77/TasteMaker_code), Moscow — Full stack QA
+
 *December 2023 — Present*
 
-* Created MVP user requirements  of the system
-*  Tested functional requirements.
+* Created [MVP user requirements](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/User-Requirements)  of the system
+*  Tested [functional requirements](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/Functional-requirements).
+  
 *   Organized the testing process: 
     *   selected testing tools
-    *   developed a test plan
+    *   developed a [test plan](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/Test-plan)
     *    distributed tasks and checked the completion of tasks
   
-* Created test cases.
-*  Developed functional, API, and E2E auto tests.
-*  Write bug reports for developers and designers.
+* Created 20 [test cases](https://app.qase.io/project/TM).
+*  Developed functional, API, and E2E [auto tests](https://github.com/Danspb77/TasteMaker_code).
+*  Write [bug reports](https://app.qase.io/defect/TM?status=%5B0%5D&page=1) for developers and designers.
 
-### CodeX ITMO, St. Petersburg — Intern QA auto
+### [CodeX](https://codex.so/) ITMO, St. Petersburg — Intern QA auto
 
 *October 2023 — November 2023*
 
@@ -81,7 +87,7 @@ I study at the Faculty of Information Technology Security.
 
 ### Professional courses
 
-#### Stepic, Software testing. Theory + Practice
+#### [ Software testing. Theory + Practice](https://drive.google.com/file/d/1yLjgC-HB9Ee7y7s4OXgqztSOU7VpT9nD/view?usp=drive_link)
 
 *October 2023 — December 2023*
 
@@ -89,7 +95,7 @@ I study at the Faculty of Information Technology Security.
 * Tested requirements
 *  Test via Postman, SoapUI.
   
-### Stepic, Test automation using Selenium and Python
+#### [Test automation using Selenium and Python](https://drive.google.com/file/d/10Mlk0SyBs9gBXmiWct8QdQi9cwCG73Xz/view?usp=drive_link)
 
 *October 2023 — December 2023*
 * Wrote End To End tests using the PageObject model for an online store
