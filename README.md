@@ -97,6 +97,10 @@ I study at the Faculty of Information Technology Security.
 
 ### Languages
 
+* English (level B2)
+
+* Russian (level C2)
+
 
 <!--
 **Danspb77/Danspb77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
