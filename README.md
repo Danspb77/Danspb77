@@ -12,9 +12,9 @@ I'm ITMO student and beginner QA engineer
 
 ### Contacts
 
-* Telegram:[ @danyaspb77](https://t.me/danyaSPB77)
+*  Telegram:[ @danyaspb77](https://t.me/danyaSPB77)
 
-* Email: dan.shell@bk.ru
+* ##### Email: dan.shell@bk.ru
 
 ## Work experience
 
@@ -24,7 +24,10 @@ I'm ITMO student and beginner QA engineer
 
 * Created [MVP user requirements](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/User-Requirements)  of the system
 *  Tested [functional requirements](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/Functional-requirements).
+*  [Ссылка без подчеркивания](#){:style="text-decoration:none;"}
+
   
+
 *   Organized the testing process: 
     *   selected testing tools
     *   developed a [test plan](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/Test-plan)
@@ -60,14 +63,18 @@ I'm ITMO student and beginner QA engineer
 
 ### Skills
 
+* **Testing theory** (requirements analysis, test design techniques)
+
+* **Checklists, test cases, decision tables** ([examples](https://drive.google.com/drive/folders/1HPf2fpdqy8KYaeM6nwCcDHpQvizsNl0Y?usp=drive_link))
+
  * **SQL** (JOIN 2-3 tables with grouping, aggregating, having functions)
 
-* **Testing theory** (requirements analysis, test design techniques)
+
   
 * **Python** (telegram bots, scripts for creating, filling, searching in the database)
   
 * **Selenium/Pytest** (end to end marketplace tests)
-* **Checklists, test cases, decision tables** (examples)
+
 * **Bash** (pipeline, find, ping)
 * **Web** (know the structure of the request and response, easily identify the status codes)
 * **HTML/CSS + TypeScript** (creating a registration and authorization form)
