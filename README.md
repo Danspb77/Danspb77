@@ -24,7 +24,6 @@ I'm ITMO student and beginner QA engineer
 
 * Created [MVP user requirements](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/User-Requirements)  of the system
 *  Tested [functional requirements](https://github.com/Danspb77/Requirements-for-TasteMaker/wiki/Functional-requirements).
-*  <span style="text-decoration:none;">[Ссылка без подчеркивания](http://example.com)</span>
 
 
   
