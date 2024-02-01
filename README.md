@@ -8,7 +8,7 @@
 
 I'm ITMO student and beginner QA engineer 
 
-![Alt text](image.png)
+![Alt text](./assets/image.png)
 
 ### Work experience
 
