@@ -2,19 +2,55 @@
 
 # Shurygin Danil Sergeevich
 
-### Links
+
 
 ### About me
 
 I'm ITMO student and beginner QA engineer 
 
-![Alt text](./assets/image.png)
+![Shurygin Danil Sergeevich](./assets/image.png)
 
-### Work experience
+### Links
 
-#### TasteMaker, Moscow — Full stack QA
+## Work experience
+
+### TasteMaker, Moscow — Full stack QA
 *December 2023 — Present*
-Created and tested MVP of the system. Organized the testing process: selected testing tools, developed a test plan, distributed tasks and created test cases. I created functional, API, and E2E auto tests. I write bug reports for developers and designers.
+
+* Created MVP user requirements  of the system
+*  Tested functional requirements.
+*   Organized the testing process: 
+    *   selected testing tools
+    *   developed a test plan
+    *    distributed tasks and checked the completion of tasks
+  
+* Created test cases.
+*  Developed functional, API, and E2E auto tests.
+*  Write bug reports for developers and designers.
+
+### CodeX ITMO, St. Petersburg — Intern QA auto
+
+*October 2023 — November 2023*
+
+* Write autotests for  3 API endpoints:
+   * functional for token generation
+    * functional for authentication token
+    * functional for creating notes
+
+  
+* Created 2 utilities to improve the convenience of writing autotests:
+  * the script for executing queries to the database
+  * test data generation utility
+* Participated in planning the development of new features
+
+### Takhirova Company, Chelyabinsk — engineer
+
+*June 2023 — September 2023*
+
+* Tested technical requirements and design solutions
+* Tests of electrical devices.
+* Created reports on defects in requirements and devices. 
+* Interacted with the developers of design solutions.
 
 ### Skills
 
