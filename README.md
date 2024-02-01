@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # Shurygin Danil Sergeevich
 
