@@ -35,13 +35,13 @@ I'm ITMO student and beginner QA engineer
   
 * Created 20 [test cases](https://app.qase.io/project/TM).
 *  Developed functional, API, and E2E [auto tests](https://github.com/Danspb77/TasteMaker_code).
-*  Write [bug reports](https://app.qase.io/defect/TM?status=%5B0%5D&page=1) for developers and designers.
+*  Wrote [bug reports](https://app.qase.io/defect/TM?status=%5B0%5D&page=1) for developers and designers.
 
 ### [CodeX](https://codex.so/) ITMO, St. Petersburg — Intern QA auto
 
 *October 2023 — November 2023*
 
-* Write autotests for  3 API endpoints:
+* Wrote autotests for  3 API endpoints:
    * functional for token generation
     * functional for authentication token
     * functional for creating notes
