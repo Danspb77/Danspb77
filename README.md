@@ -72,9 +72,32 @@ I'm ITMO student and beginner QA engineer
 
 ### Education
 
+
+#### ITMO, St. Petersburg — Bachelor's degree
+
+*September 2022 — PRESENT*
+
+I study at the Faculty of Information Technology Security.
+
 ### Professional courses
 
+#### Stepic, Software testing. Theory + Practice
+
+*October 2023 — December 2023*
+
+* Wrote test cases, checklists
+* Tested requirements
+*  Test via Postman, SoapUI.
+  
+### Stepic, Test automation using Selenium and Python
+
+*October 2023 — December 2023*
+* Wrote End To End tests using the PageObject model for an online store
+* Worked with scope, explicit and implicit expectations.
+
 ### Languages
+
+
 <!--
 **Danspb77/Danspb77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
